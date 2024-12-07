@@ -9,7 +9,7 @@ int main()
 	double res;
 	cout << "The first is hight, the second is length, the third is width" << endl;
 	cin >> a >> b >> c; // Ввод трех целых чисел с клавиатуры 
-	res = sqrt(a * a + b * b + c * c); // Вычисление длины диагонали кирпича
+	res = sqrt(a * a + b * b + c * c); // Вычисление изменил комент
 	cout << fixed;
 	cout.precision(2);
 	// Вывод результата с точностью до двух знаком после запятой 
