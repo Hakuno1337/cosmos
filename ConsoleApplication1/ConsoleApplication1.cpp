@@ -1,9 +1,11 @@
 ﻿#include<iostream>
 #include<math.h>
 using namespace std;
-int main()
-
-{
+int main(){
+	//Код от Илюшки
+	for (int i = 0; i < 10; i++) {
+		cout << 'BUBA' << endl;
+	}
 	// 1-ая задача
 	int a, b, c;
 	double res;
