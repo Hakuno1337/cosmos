@@ -12,7 +12,7 @@ int main()
 	res = sqrt(a * a + b * b + c * c); // Вычисление длины диагонали кирпича
 	cout << fixed;
 	cout.precision(2);
-	// Вывод результата с точностью до двух знаком после запятой 
+	// Вывод результата с точностью до dvex carkfksd dfkldfkdfl
 	cout << "\nThe diagonal of the brick with edges " << a << " , "
 		<< b << " and " << c << " is " << res << endl;
 }
